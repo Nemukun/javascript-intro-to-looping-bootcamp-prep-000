@@ -8,3 +8,7 @@ function forLoop(array){
   }
   return forLoop
 }
+
+function whileLoop(n){
+  
+}
